@@ -1,0 +1,5 @@
+Public EC2 Instance ID: 44.211.232.126 destroyed 
+Public EC2 Instance IP: 3.235.129.96 
+Public EC2 Instance ID: 3.235.129.96 destroyed 
+Public EC2 Instance IP: 13.220.245.219 
+Public EC2 Instance IP: 98.86.181.177 
