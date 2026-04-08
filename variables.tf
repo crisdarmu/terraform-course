@@ -49,3 +49,11 @@ variable "ingress_ports" {
   description = "List of ports to allow in the security group"
   type        = list(number)
 }
+
+variable "access_key" {
+  
+}
+
+variable "secret_key" {
+  
+}
